@@ -1,0 +1,27 @@
+
+.custom_width {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    padding: 10 35;
+}
+.header h1 {
+    display: inline;
+    float: left;
+}
+.header ul {
+    display: inline;
+    float: right;
+}
+
+body {
+    margin: 0;
+}
+
+.checkbox-thing {
+    margin: 0 5;
+}
